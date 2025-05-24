@@ -2,7 +2,6 @@
 
 Fokus é uma aplicação web interativa desenvolvida para auxiliar no gerenciamento de tempo utilizando a técnica Pomodoro. Com uma interface responsiva e minimalista, permite alternar entre foco, descanso curto e descanso longo, além de oferecer música ambiente para aumentar a concentração.
 
-![Fokus App](./imagens/foco.png)
 
 ---
 
@@ -98,5 +97,4 @@ Projeto fictício e sem fins comerciais. Imagens geradas por IA no Adobe Firefly
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Seu Nome**  
-🔗 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por Rafael Fontenele
